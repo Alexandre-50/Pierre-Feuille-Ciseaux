@@ -1,0 +1,4 @@
+Principe du Jeu :
+- Le joueur choisi un nombre entre 1 et 3 ou il represente chacun (Feuille,Ciseaux et Pierre), il chosit le nombre
+ de partie qu'il souhaite faire. L'ordi choisit un nombre aleatoire entre 1 et 3. A la fin de la partie, le jeu affiche
+ les resultats des scores du Joueur et de l'ordi et indique qui a gagne la partie.
